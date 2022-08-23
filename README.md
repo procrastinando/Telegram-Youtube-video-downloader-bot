@@ -12,3 +12,4 @@ Using the python API this BOT will download a video or audio of the link that is
 #### `base_url = 'https://api.telegram.org/bot270485614:AAHfiqksKZ8WmR2zSjiQ7_v4TMAKdiHm9T0'`
 ## Run the script:
 #### `python telegram-pytube.py`
+#### If the audio or video file size is less than 50MB (telegram api limitation) it will be send to you.
