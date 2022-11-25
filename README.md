@@ -1,6 +1,9 @@
 # Telegram bot to download audio and video from youtube
 Using the python API this BOT will download a video or audio of the link that is sent to the bot, if the file size is less than 50MB, the bot will send it to you.
 
+## Note:
+The code is not longer working, due to an issue with pytube. Waiting for an update
+
 ## Install requirements:
 #### `sudo apt install ffmpeg`
 #### `pip install pytube`
